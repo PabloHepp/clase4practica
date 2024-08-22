@@ -1,0 +1,33 @@
+Apuntes clase de práctica prog 2 - 22 / 08 
+
+Para el problema de las tarjetas del campus: 
+
+clases candidatas.
+
+sistema 
+
+viaje
+
+tarjeta
+
+cliente 
+
+-.---------------------------------
+
+
+Herencia
+
+En herencia siempre tenemos que pensar que hay una clase base
+Cuales clases van a poder heredar? las que estan definidas en ese orden jerarjico 
+
+hacia abajo, especializacion 
+hacia arriba, generalizacion 
+
+todos los animales tienen un nombre... Animal  le presta a perro el atributo nombre 
+a perro le pongo como atributo "Raza" , es especializar la clase. 
+
+para indicar que quiero compartir un atributo de la clase padre a la hija , agrego un # al principio del atributo ( ni - ni +)
+
+ventaja de la herencia es que escribo menos... directamente lo heredo
+
+
