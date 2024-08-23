@@ -1,0 +1,7 @@
+C:\Users\Alumno\Desktop\claseHerencia\clase4practica\Comercio\bin\Debug\Comercio.exe.config
+C:\Users\Alumno\Desktop\claseHerencia\clase4practica\Comercio\bin\Debug\Comercio.exe
+C:\Users\Alumno\Desktop\claseHerencia\clase4practica\Comercio\bin\Debug\Comercio.pdb
+C:\Users\Alumno\Desktop\claseHerencia\clase4practica\Comercio\obj\Debug\Comercio.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\claseHerencia\clase4practica\Comercio\obj\Debug\Comercio.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\claseHerencia\clase4practica\Comercio\obj\Debug\Comercio.exe
+C:\Users\Alumno\Desktop\claseHerencia\clase4practica\Comercio\obj\Debug\Comercio.pdb
