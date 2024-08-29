@@ -1,0 +1,58 @@
+C:\Users\Francisco\Desktop\Viajes\Viajes\bin\Debug\Viajes.exe.config
+C:\Users\Francisco\Desktop\Viajes\Viajes\bin\Debug\Viajes.exe
+C:\Users\Francisco\Desktop\Viajes\Viajes\bin\Debug\Viajes.pdb
+C:\Users\Francisco\Desktop\Viajes\Viajes\obj\Debug\Viajes.csprojResolveAssemblyReference.cache
+C:\Users\Francisco\Desktop\Viajes\Viajes\obj\Debug\Viajes.Form1.resources
+C:\Users\Francisco\Desktop\Viajes\Viajes\obj\Debug\Viajes.Properties.Resources.resources
+C:\Users\Francisco\Desktop\Viajes\Viajes\obj\Debug\Viajes.csproj.GenerateResource.Cache
+C:\Users\Francisco\Desktop\Viajes\Viajes\obj\Debug\Viajes.exe
+C:\Users\Francisco\Desktop\Viajes\Viajes\obj\Debug\Viajes.pdb
+C:\Users\Francisco\Desktop\Viajes\Viajes\obj\Debug\Viajes.Fmicros.resources
+C:\Users\Francisco\Desktop\Viajes\Viajes\obj\Debug\Viajes.Fboleto.resources
+D:\utn Tsp\Programación\programacion 2\2017\Clase 2\Ejercicio Boleteria\Viajes\Viajes\bin\Debug\Viajes.exe.config
+D:\utn Tsp\Programación\programacion 2\2017\Clase 2\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.exe
+D:\utn Tsp\Programación\programacion 2\2017\Clase 2\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.pdb
+D:\utn Tsp\Programación\programacion 2\2017\Clase 2\Ejercicio Boleteria\Viajes\Viajes\bin\Debug\Viajes.exe
+D:\utn Tsp\Programación\programacion 2\2017\Clase 2\Ejercicio Boleteria\Viajes\Viajes\bin\Debug\Viajes.pdb
+D:\utn Tsp\Programación\programacion 2\2017\Clase 2\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.csprojResolveAssemblyReference.cache
+D:\utn Tsp\Programación\programacion 2\2017\Clase 2\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.Fboleto.resources
+D:\utn Tsp\Programación\programacion 2\2017\Clase 2\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.Fmicros.resources
+D:\utn Tsp\Programación\programacion 2\2017\Clase 2\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.Form1.resources
+D:\utn Tsp\Programación\programacion 2\2017\Clase 2\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.Properties.Resources.resources
+D:\utn Tsp\Programación\programacion 2\2017\Clase 2\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.csproj.GenerateResource.Cache
+C:\Francisco\utn Tsp\Programación\programacion 2\2017\Clase 2\Ejercicio Boleteria\Viajes\Viajes\bin\Debug\Viajes.exe.config
+C:\Francisco\utn Tsp\Programación\programacion 2\2017\Clase 2\Ejercicio Boleteria\Viajes\Viajes\bin\Debug\Viajes.exe
+C:\Francisco\utn Tsp\Programación\programacion 2\2017\Clase 2\Ejercicio Boleteria\Viajes\Viajes\bin\Debug\Viajes.pdb
+C:\Francisco\utn Tsp\Programación\programacion 2\2017\Clase 2\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.csprojResolveAssemblyReference.cache
+C:\Francisco\utn Tsp\Programación\programacion 2\2017\Clase 2\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.Fboleto.resources
+C:\Francisco\utn Tsp\Programación\programacion 2\2017\Clase 2\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.Fmicros.resources
+C:\Francisco\utn Tsp\Programación\programacion 2\2017\Clase 2\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.Form1.resources
+C:\Francisco\utn Tsp\Programación\programacion 2\2017\Clase 2\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.Properties.Resources.resources
+C:\Francisco\utn Tsp\Programación\programacion 2\2017\Clase 2\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.csproj.GenerateResource.cache
+C:\Francisco\utn Tsp\Programación\programacion 2\2017\Clase 2\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.csproj.CoreCompileInputs.cache
+C:\Francisco\utn Tsp\Programación\programacion 2\2017\Clase 2\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.exe
+C:\Francisco\utn Tsp\Programación\programacion 2\2017\Clase 2\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.pdb
+C:\Users\Francisco\Desktop\Boleteria\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.csprojResolveAssemblyReference.cache
+C:\Users\Francisco\Desktop\Boleteria\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.Fboleto.resources
+C:\Users\Francisco\Desktop\Boleteria\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.Fmicros.resources
+C:\Users\Francisco\Desktop\Boleteria\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.Form1.resources
+C:\Users\Francisco\Desktop\Boleteria\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.Properties.Resources.resources
+C:\Users\Francisco\Desktop\Boleteria\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.csproj.GenerateResource.cache
+C:\Users\Francisco\Desktop\Boleteria\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Desktop\Boleteria\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.exe
+C:\Users\Francisco\Desktop\Boleteria\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.pdb
+C:\Users\Francisco\Desktop\Boleteria\Ejercicio Boleteria\Viajes\Viajes\bin\Debug\Viajes.exe.config
+C:\Users\Francisco\Desktop\Boleteria\Ejercicio Boleteria\Viajes\Viajes\bin\Debug\Viajes.exe
+C:\Users\Francisco\Desktop\Boleteria\Ejercicio Boleteria\Viajes\Viajes\bin\Debug\Viajes.pdb
+C:\Francisco\utn Tsp\Programación\programacion 2\2021\Clase 3\Boleteria\Ejercicio Boleteria\Viajes\Viajes\bin\Debug\Viajes.exe.config
+C:\Francisco\utn Tsp\Programación\programacion 2\2021\Clase 3\Boleteria\Ejercicio Boleteria\Viajes\Viajes\bin\Debug\Viajes.exe
+C:\Francisco\utn Tsp\Programación\programacion 2\2021\Clase 3\Boleteria\Ejercicio Boleteria\Viajes\Viajes\bin\Debug\Viajes.pdb
+C:\Francisco\utn Tsp\Programación\programacion 2\2021\Clase 3\Boleteria\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.csprojResolveAssemblyReference.cache
+C:\Francisco\utn Tsp\Programación\programacion 2\2021\Clase 3\Boleteria\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.Fboleto.resources
+C:\Francisco\utn Tsp\Programación\programacion 2\2021\Clase 3\Boleteria\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.Fmicros.resources
+C:\Francisco\utn Tsp\Programación\programacion 2\2021\Clase 3\Boleteria\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.Form1.resources
+C:\Francisco\utn Tsp\Programación\programacion 2\2021\Clase 3\Boleteria\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.Properties.Resources.resources
+C:\Francisco\utn Tsp\Programación\programacion 2\2021\Clase 3\Boleteria\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.csproj.GenerateResource.cache
+C:\Francisco\utn Tsp\Programación\programacion 2\2021\Clase 3\Boleteria\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.csproj.CoreCompileInputs.cache
+C:\Francisco\utn Tsp\Programación\programacion 2\2021\Clase 3\Boleteria\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.exe
+C:\Francisco\utn Tsp\Programación\programacion 2\2021\Clase 3\Boleteria\Ejercicio Boleteria\Viajes\Viajes\obj\Debug\Viajes.pdb

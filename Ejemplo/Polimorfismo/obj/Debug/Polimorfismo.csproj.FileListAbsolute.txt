@@ -1,0 +1,11 @@
+D:\Escritorio\programación 2-2024\Clase 4\Ejemplo\Polimorfismo\bin\Debug\Polimorfismo.exe.config
+D:\Escritorio\programación 2-2024\Clase 4\Ejemplo\Polimorfismo\bin\Debug\Polimorfismo.exe
+D:\Escritorio\programación 2-2024\Clase 4\Ejemplo\Polimorfismo\bin\Debug\Polimorfismo.pdb
+D:\Escritorio\programación 2-2024\Clase 4\Ejemplo\Polimorfismo\obj\Debug\Polimorfismo.csproj.AssemblyReference.cache
+D:\Escritorio\programación 2-2024\Clase 4\Ejemplo\Polimorfismo\obj\Debug\Polimorfismo.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\programación 2-2024\Clase 4\Ejemplo\Polimorfismo\obj\Debug\Polimorfismo.FormPolimorfismo.resources
+D:\Escritorio\programación 2-2024\Clase 4\Ejemplo\Polimorfismo\obj\Debug\Polimorfismo.Properties.Resources.resources
+D:\Escritorio\programación 2-2024\Clase 4\Ejemplo\Polimorfismo\obj\Debug\Polimorfismo.csproj.GenerateResource.cache
+D:\Escritorio\programación 2-2024\Clase 4\Ejemplo\Polimorfismo\obj\Debug\Polimorfismo.csproj.CoreCompileInputs.cache
+D:\Escritorio\programación 2-2024\Clase 4\Ejemplo\Polimorfismo\obj\Debug\Polimorfismo.exe
+D:\Escritorio\programación 2-2024\Clase 4\Ejemplo\Polimorfismo\obj\Debug\Polimorfismo.pdb

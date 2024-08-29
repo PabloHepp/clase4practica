@@ -1,0 +1,60 @@
+C:\Users\Francisco\Desktop\utn Tsp\laboratorio II 2013\clase 2\Ejemplo\Ejemplo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Francisco\Desktop\utn Tsp\laboratorio II 2013\clase 2\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Form1.resources
+C:\Users\Francisco\Desktop\utn Tsp\laboratorio II 2013\clase 2\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Properties.Resources.resources
+C:\Users\Francisco\Desktop\utn Tsp\laboratorio II 2013\clase 2\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.GenerateResource.Cache
+C:\Users\Francisco\Desktop\utn Tsp\laboratorio II 2013\clase 2\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe
+C:\Users\Francisco\Desktop\utn Tsp\laboratorio II 2013\clase 2\Ejemplo\Ejemplo\bin\Debug\Ejemplo.pdb
+C:\Users\Francisco\Desktop\utn Tsp\laboratorio II 2013\clase 2\Ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
+C:\Users\Francisco\Desktop\utn Tsp\laboratorio II 2013\clase 2\Ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb
+D:\utn Tsp\Laboratorio\Laboratorio II\2013\clase 2\Ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
+D:\utn Tsp\Laboratorio\Laboratorio II\2013\clase 2\Ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb
+D:\utn Tsp\Laboratorio\Laboratorio II\2014\clase 2\Ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
+D:\utn Tsp\Laboratorio\Laboratorio II\2014\clase 2\Ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb
+D:\utn Tsp\Laboratorio\Laboratorio II\2014\clase 2\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe
+D:\utn Tsp\Laboratorio\Laboratorio II\2014\clase 2\Ejemplo\Ejemplo\bin\Debug\Ejemplo.pdb
+D:\utn Tsp\Laboratorio\Laboratorio II\2014\clase 2\Ejemplo\Ejemplo\obj\Debug\ResolveAssemblyReference.cache
+D:\utn Tsp\Laboratorio\Laboratorio II\2014\clase 2\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Form1.resources
+D:\utn Tsp\Laboratorio\Laboratorio II\2014\clase 2\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Properties.Resources.resources
+D:\utn Tsp\Laboratorio\Laboratorio II\2014\clase 2\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.GenerateResource.Cache
+D:\utn Tsp\Laboratorio\Laboratorio II\2014\Clase03\Ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
+D:\utn Tsp\Laboratorio\Laboratorio II\2014\Clase03\Ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb
+D:\utn Tsp\Laboratorio\Laboratorio II\2014\Clase03\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe
+D:\utn Tsp\Laboratorio\Laboratorio II\2014\Clase03\Ejemplo\Ejemplo\bin\Debug\Ejemplo.pdb
+D:\utn Tsp\Laboratorio\Laboratorio II\2014\Clase03\Ejemplo\Ejemplo\obj\Debug\ResolveAssemblyReference.cache
+D:\utn Tsp\Laboratorio\Laboratorio II\2014\Clase03\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Form1.resources
+D:\utn Tsp\Laboratorio\Laboratorio II\2014\Clase03\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Properties.Resources.resources
+D:\utn Tsp\Laboratorio\Laboratorio II\2014\Clase03\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.GenerateResource.Cache
+C:\Users\Francisco.Francisco-PC\Desktop\cosas del escritorio\utn Tsp\Laboratorio\Laboratorio II\2015\Clase03\Ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
+C:\Users\Francisco.Francisco-PC\Desktop\cosas del escritorio\utn Tsp\Laboratorio\Laboratorio II\2015\Clase03\Ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb
+C:\Users\Francisco.Francisco-PC\Desktop\cosas del escritorio\utn Tsp\Laboratorio\Laboratorio II\2015\Clase03\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe
+C:\Users\Francisco.Francisco-PC\Desktop\cosas del escritorio\utn Tsp\Laboratorio\Laboratorio II\2015\Clase03\Ejemplo\Ejemplo\bin\Debug\Ejemplo.pdb
+C:\Users\Francisco.Francisco-PC\Desktop\cosas del escritorio\utn Tsp\Laboratorio\Laboratorio II\2015\Clase03\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Form1.resources
+C:\Users\Francisco.Francisco-PC\Desktop\cosas del escritorio\utn Tsp\Laboratorio\Laboratorio II\2015\Clase03\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Properties.Resources.resources
+C:\Users\Francisco.Francisco-PC\Desktop\cosas del escritorio\utn Tsp\Laboratorio\Laboratorio II\2015\Clase03\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.GenerateResource.Cache
+D:\utn Tsp\Laboratorio\Laboratorio II\2017\Clase03\Ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
+D:\utn Tsp\Laboratorio\Laboratorio II\2017\Clase03\Ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb
+D:\utn Tsp\Laboratorio\Laboratorio II\2017\Clase03\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csprojResolveAssemblyReference.cache
+D:\utn Tsp\Laboratorio\Laboratorio II\2017\Clase03\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Form1.resources
+D:\utn Tsp\Laboratorio\Laboratorio II\2017\Clase03\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Properties.Resources.resources
+D:\utn Tsp\Laboratorio\Laboratorio II\2017\Clase03\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.GenerateResource.Cache
+D:\utn Tsp\Laboratorio\Laboratorio II\2017\Clase03\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe
+D:\utn Tsp\Laboratorio\Laboratorio II\2017\Clase03\Ejemplo\Ejemplo\bin\Debug\Ejemplo.pdb
+D:\cosas del escritorio\utn Tsp\Laboratorio\Laboratorio II\2020\Clase02\Ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
+D:\cosas del escritorio\utn Tsp\Laboratorio\Laboratorio II\2020\Clase02\Ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb
+D:\cosas del escritorio\utn Tsp\Laboratorio\Laboratorio II\2020\Clase02\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe
+D:\cosas del escritorio\utn Tsp\Laboratorio\Laboratorio II\2020\Clase02\Ejemplo\Ejemplo\bin\Debug\Ejemplo.pdb
+D:\cosas del escritorio\utn Tsp\Laboratorio\Laboratorio II\2020\Clase02\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csprojResolveAssemblyReference.cache
+D:\cosas del escritorio\utn Tsp\Laboratorio\Laboratorio II\2020\Clase02\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Form1.resources
+D:\cosas del escritorio\utn Tsp\Laboratorio\Laboratorio II\2020\Clase02\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Properties.Resources.resources
+D:\cosas del escritorio\utn Tsp\Laboratorio\Laboratorio II\2020\Clase02\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.GenerateResource.Cache
+D:\Escritorio\programación 2-2024\Clase 4\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe.config
+D:\Escritorio\programación 2-2024\Clase 4\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe
+D:\Escritorio\programación 2-2024\Clase 4\Ejemplo\Ejemplo\bin\Debug\Ejemplo.pdb
+D:\Escritorio\programación 2-2024\Clase 4\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.AssemblyReference.cache
+D:\Escritorio\programación 2-2024\Clase 4\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\programación 2-2024\Clase 4\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Form1.resources
+D:\Escritorio\programación 2-2024\Clase 4\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Properties.Resources.resources
+D:\Escritorio\programación 2-2024\Clase 4\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.GenerateResource.cache
+D:\Escritorio\programación 2-2024\Clase 4\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.CoreCompileInputs.cache
+D:\Escritorio\programación 2-2024\Clase 4\Ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
+D:\Escritorio\programación 2-2024\Clase 4\Ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb
