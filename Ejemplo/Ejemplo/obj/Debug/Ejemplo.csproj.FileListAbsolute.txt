@@ -58,3 +58,13 @@ D:\Escritorio\programación 2-2024\Clase 4\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csp
 D:\Escritorio\programación 2-2024\Clase 4\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.CoreCompileInputs.cache
 D:\Escritorio\programación 2-2024\Clase 4\Ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
 D:\Escritorio\programación 2-2024\Clase 4\Ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb
+C:\Users\Alumno\Downloads\clase4practica\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe.config
+C:\Users\Alumno\Downloads\clase4practica\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe
+C:\Users\Alumno\Downloads\clase4practica\Ejemplo\Ejemplo\bin\Debug\Ejemplo.pdb
+C:\Users\Alumno\Downloads\clase4practica\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.AssemblyReference.cache
+C:\Users\Alumno\Downloads\clase4practica\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Form1.resources
+C:\Users\Alumno\Downloads\clase4practica\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Properties.Resources.resources
+C:\Users\Alumno\Downloads\clase4practica\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.GenerateResource.cache
+C:\Users\Alumno\Downloads\clase4practica\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Downloads\clase4practica\Ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
+C:\Users\Alumno\Downloads\clase4practica\Ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb

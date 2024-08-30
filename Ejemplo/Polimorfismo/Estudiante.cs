@@ -17,7 +17,7 @@ namespace Polimorfismo
         }
         public override string Identificar()
         {
-            return base.nombre + " es Estudiante";
+            return base.nombre + " es Estudiante " + dni.ToString();
             //return base.Identificar() + " es Estudiante";
         }
         public int Dni

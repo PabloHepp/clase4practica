@@ -1,0 +1,14 @@
+C:\Users\Francisco.Francisco-PC\AppData\Local\Temporary Projects\EjemploPiezas\obj\x86\Debug\EjemploPiezas.Form1.resources
+C:\Users\Francisco.Francisco-PC\AppData\Local\Temporary Projects\EjemploPiezas\obj\x86\Debug\EjemploPiezas.Properties.Resources.resources
+C:\Users\Francisco.Francisco-PC\AppData\Local\Temporary Projects\EjemploPiezas\obj\x86\Debug\EjemploPiezas.csproj.GenerateResource.Cache
+C:\Users\Francisco.Francisco-PC\AppData\Local\Temporary Projects\EjemploPiezas\bin\Debug\EjemploPiezas.exe
+C:\Users\Francisco.Francisco-PC\AppData\Local\Temporary Projects\EjemploPiezas\bin\Debug\EjemploPiezas.pdb
+C:\Users\Francisco.Francisco-PC\AppData\Local\Temporary Projects\EjemploPiezas\obj\x86\Debug\EjemploPiezas.exe
+C:\Users\Francisco.Francisco-PC\AppData\Local\Temporary Projects\EjemploPiezas\obj\x86\Debug\EjemploPiezas.pdb
+C:\Users\Francisco.Francisco-PC\Desktop\EjemploPiezas\EjemploPiezas\obj\x86\Debug\EjemploPiezas.exe
+C:\Users\Francisco.Francisco-PC\Desktop\EjemploPiezas\EjemploPiezas\obj\x86\Debug\EjemploPiezas.pdb
+C:\Users\Francisco.Francisco-PC\Desktop\EjemploPiezas\EjemploPiezas\obj\x86\Debug\EjemploPiezas.Form1.resources
+C:\Users\Francisco.Francisco-PC\Desktop\EjemploPiezas\EjemploPiezas\obj\x86\Debug\EjemploPiezas.Properties.Resources.resources
+C:\Users\Francisco.Francisco-PC\Desktop\EjemploPiezas\EjemploPiezas\obj\x86\Debug\EjemploPiezas.csproj.GenerateResource.Cache
+C:\Users\Francisco.Francisco-PC\Desktop\EjemploPiezas\EjemploPiezas\bin\Debug\EjemploPiezas.exe
+C:\Users\Francisco.Francisco-PC\Desktop\EjemploPiezas\EjemploPiezas\bin\Debug\EjemploPiezas.pdb

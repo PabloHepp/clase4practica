@@ -7,16 +7,17 @@ using System.Threading.Tasks;
 
 namespace Polimorfismo
 {
-    internal class Profesor
+    internal class Profesor:Persona
     {
         int legajo;
-        public Profesor (string nombre, int valor)
+        public Profesor(string nombre, int valor) : base(nombre)
         {
             legajo = valor;
         }
-        public string Identificar()
+        public override string Identificar()
         {
-            return "es profesor";
+            return base.Identificar() + " es profesor " + legajo.ToString(); //aca sobreescribo el método Identificar y le agrego "es profesor"
+                                                        //En realidad es profesor pero va a escribir "persona" antes
         }
         public int Legajo
         {

@@ -9,3 +9,13 @@ D:\Escritorio\programación 2-2024\Clase 4\Ejemplo\Polimorfismo\obj\Debug\Polimo
 D:\Escritorio\programación 2-2024\Clase 4\Ejemplo\Polimorfismo\obj\Debug\Polimorfismo.csproj.CoreCompileInputs.cache
 D:\Escritorio\programación 2-2024\Clase 4\Ejemplo\Polimorfismo\obj\Debug\Polimorfismo.exe
 D:\Escritorio\programación 2-2024\Clase 4\Ejemplo\Polimorfismo\obj\Debug\Polimorfismo.pdb
+C:\Users\Alumno\Downloads\clase4practica\Ejemplo\Polimorfismo\obj\Debug\Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Alumno\Downloads\clase4practica\Ejemplo\Polimorfismo\obj\Debug\Polimorfismo.FormPolimorfismo.resources
+C:\Users\Alumno\Downloads\clase4practica\Ejemplo\Polimorfismo\obj\Debug\Polimorfismo.Properties.Resources.resources
+C:\Users\Alumno\Downloads\clase4practica\Ejemplo\Polimorfismo\obj\Debug\Polimorfismo.csproj.GenerateResource.cache
+C:\Users\Alumno\Downloads\clase4practica\Ejemplo\Polimorfismo\obj\Debug\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Downloads\clase4practica\Ejemplo\Polimorfismo\obj\Debug\Polimorfismo.exe
+C:\Users\Alumno\Downloads\clase4practica\Ejemplo\Polimorfismo\obj\Debug\Polimorfismo.pdb
+C:\Users\Alumno\Downloads\clase4practica\Ejemplo\Polimorfismo\bin\Debug\Polimorfismo.exe.config
+C:\Users\Alumno\Downloads\clase4practica\Ejemplo\Polimorfismo\bin\Debug\Polimorfismo.exe
+C:\Users\Alumno\Downloads\clase4practica\Ejemplo\Polimorfismo\bin\Debug\Polimorfismo.pdb
